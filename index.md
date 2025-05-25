@@ -19,3 +19,9 @@ var myVar = "Heloooo!";
 ```
 x = 0:pi/10:pi; y = sin(x); plot(x, y)
 ```
+# Adding a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
